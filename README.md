@@ -3,14 +3,14 @@ This project was made while learning the fundamentals of GitHub from their onlin
 
 I am curious to see how this web-based editor can handle various coding languages, of which I am familar.
 These include:
-~Python
-~C
-~C++
-~C#
-~HTML
-~CSS
-~JavaScript
-~Jquery
-~Objective C(rusty)
-~C with assembly
-~Assembly code for microprocessors
+~Python<br/>
+~C<br/>
+~C++<br/>
+~C#<br/>
+~HTML<br/>
+~CSS<br/>
+~JavaScript<br/>
+~Jquery<br/>
+~Objective C(rusty)<br/>
+~C with assembly<br/>
+~Assembly code for microprocessors<br/>
