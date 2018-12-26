@@ -10,7 +10,9 @@ These include:
 ~HTML<br/>
 ~CSS<br/>
 ~JavaScript<br/>
+~AJAX<br/>
 ~Jquery<br/>
+~PHP<br/>
 ~Objective C<br/>
 ~C with assembly<br/>
 ~Assembly code for microprocessors<br/>
