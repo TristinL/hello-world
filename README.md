@@ -11,6 +11,6 @@ These include:
 ~CSS<br/>
 ~JavaScript<br/>
 ~Jquery<br/>
-~Objective C(rusty)<br/>
+~Objective C<br/>
 ~C with assembly<br/>
 ~Assembly code for microprocessors<br/>
